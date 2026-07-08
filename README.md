@@ -7,12 +7,12 @@ Yhteinen kalenteri bändin treenien, keikkojen ja poissaolojen hallintaan.
 ## Ominaisuudet
 
 - Treenien ja keikkojen lisääminen kellonaikoineen
-- Poissaolojen merkitseminen päivä- tai aikavälikohtaisesti jäsenelle (Jani, Jarkko, Konsta, Rane, Sami)
+- Poissaolojen merkitseminen päivä- tai aikavälikohtaisesti määritetyille jäsenille
 - Reaaliaikainen synkronointi — kaikki näkevät saman kalenterin Firebase-tietokannan kautta
 - Kalenteriboksit pysyvät siisteinä — pitkät tekstit katkeavat automaattisesti
 - Klikkaamalla päivää näet sen tapahtumat sekä kaikki tulevat tapahtumat alla
 - Tapahtumien poisto vahvistusdialogin kera
-- Lataa tulevat treenit ja keikaat Outlookiin .ics-tiedostona
+- Lataa tulevat treenit ja keikat Outlookiin .ics-tiedostona
 - Ei kirjautumista, ei asennuksia — toimii suoraan selaimessa
 
 ## Käyttö
