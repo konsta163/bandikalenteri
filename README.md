@@ -8,7 +8,7 @@ Yhteinen kalenteri bändin treenien, keikkojen ja poissaolojen hallintaan.
 
 - Treenien ja keikkojen lisääminen kellonaikoineen
 - Vapaamuotoiset lisätiedot tapahtumalle (äänimies, aikataulu, load-in jne.)
-- Poissaolojen merkitseminen päivä- tai aikavälikohtaisesti jäsenelle (Jani, Jarkko, Konsta, Rane, Sami)
+- Poissaolojen merkitseminen päivä- tai aikavälikohtaisesti jäsenelle
 - Settilistan liittäminen tapahtumaan Google Drive tai Dropbox -linkin kautta
 - Settilistan lisäys, muokkaus ja poisto myös olemassa olevaan tapahtumaan jälkikäteen
 - Reaaliaikainen synkronointi — kaikki näkevät saman kalenterin Firebase-tietokannan kautta
