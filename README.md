@@ -2,8 +2,6 @@
 
 Yhteinen kalenteri bändin treenien, keikkojen ja poissaolojen hallintaan.
 
-🔗 **[Avaa kalenteri](https://konsta163.github.io/bandikalenteri/kalenteri.html)**
-
 ## Ominaisuudet
 
 - Treenien ja keikkojen lisääminen kellonaikoineen
